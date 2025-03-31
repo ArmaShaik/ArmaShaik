@@ -1,8 +1,7 @@
 
 ### 👋 Hi, I’m Arma
 
-<img src="./Arma_photo.jpg" width="160" height="160" align="right" style="border-radius: 50%; border: 2px solid #ccc;" alt="Arma Shaik photo"/>
-
+![Arma Shaik](./Arma_photo.png)
 
 Data-driven analyst with 5+ years of experience translating business challenges into actionable insights. I bring a unique blend of credit risk, analytics, and digital strategy — with hands-on expertise in Python, SQL, Tableau, Snowflake, AWS, and UiPath.
 
