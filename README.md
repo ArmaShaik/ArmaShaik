@@ -1,7 +1,7 @@
 
 ### 👋 Hi, I’m Arma
 
-![Arma Shaik](./Arma_photo.png)
+![Arma Shaik](./Arma_photo.jpg)
 
 Data-driven analyst with 5+ years of experience translating business challenges into actionable insights. I bring a unique blend of credit risk, analytics, and digital strategy — with hands-on expertise in Python, SQL, Tableau, Snowflake, AWS, and UiPath.
 
