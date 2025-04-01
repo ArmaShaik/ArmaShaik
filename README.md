@@ -47,7 +47,7 @@ Currently, I’m pursuing my Master’s in Business Analytics at the Wisconsin S
 
 📧 [arma.rahamath@gmail.com](mailto:arma.rahamath@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/armashaik/)  
-🌐 Portfolio site coming soon on **Wix**)
+🌐 Portfolio site coming soon
 
 ---
 
