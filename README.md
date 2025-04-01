@@ -22,11 +22,11 @@ Currently, I’m pursuing my Master’s in Business Analytics at the Wisconsin S
 
 | Project | Tools | Summary |
 |--------|-------|---------|
-| [Prescriptive Meal Optimization](https://github.com/ArmaShaik/Prescriptive-Meal-Optimization) | Python, Pyomo, CBC Solver | Designed a weekly meal plan optimizer to meet dietary constraints at low cost. |
+| [Prescriptive Meal Optimization](https://github.com/ArmaShaik/prescriptive-modeling-optimization) | Python, Pyomo, CBC Solver | Designed a weekly meal plan optimizer to meet dietary constraints at low cost. |
 | [AWS Data Architecture](https://github.com/ArmaShaik/cloud-technology-aws-data-pipeline) | AWS (S3, Glue, Redshift, SageMaker) | Built a cloud-native pipeline for bankruptcy prediction. |
 | [COVID Franchise Impact](https://github.com/ArmaShaik/covid-analysis-sql-tableau) | SQL, Tableau | Analyzed how top fast-food chains were impacted by the pandemic. |
 | [Disaster Tweet Classification](https://github.com/ArmaShaik/disaster-tweet-classification-Machine-Learning) | Python, scikit-learn | Compared ML models to classify tweets during disasters. |
-| [Order-to-Cash Automation](https://github.com/ArmaShaik/OrderToCashProcessRPA) | UiPath, Celonis, Lucidchart | Automated invoice generation with end-to-end RPA. |
+| [Order-to-Cash Automation](https://github.com/ArmaShaik/order-to-cash-rpa-uipath-celonis) | UiPath, Celonis, Lucidchart | Automated invoice generation with end-to-end RPA. |
 
 🔗 More projects on my [GitHub Repositories](https://github.com/ArmaShaik?tab=repositories)
 
